@@ -1,0 +1,10 @@
+mysql:
+  ip: localhost
+  port: 3306
+  db: suyi
+  user: root
+  password: root
+system:
+  port: 8080
+  debug: true
+  prefix: /api/v1
